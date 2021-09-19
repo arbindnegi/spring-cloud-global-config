@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.howtodoinjava.example.springconfigclient.SpringConfigClientApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.564 s - in com.howtodoinjava.example.springconfigclient.SpringConfigClientApplicationTests
