@@ -1,4 +1,4 @@
-package com.howtodoinjava.example.springconfigserver;
+package com.demo.server.springconfigserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

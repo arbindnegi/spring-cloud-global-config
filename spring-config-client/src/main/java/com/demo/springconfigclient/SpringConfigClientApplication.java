@@ -1,4 +1,4 @@
-package com.howtodoinjava.example.springconfigclient;
+package com.demo.springconfigclient;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

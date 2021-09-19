@@ -1,4 +1,4 @@
-package com.howtodoinjava.example.springconfigserver;
+package com.demo.server.springconfigserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
